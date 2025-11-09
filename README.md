@@ -1,5 +1,5 @@
 # PMET
-This is a repository for "PMET: Precise Model Editing in a Transformer"
+This is a repository for "PMET-E"
 
 ## Prepare conda env
 ```bash
